@@ -31,7 +31,7 @@ I'm **Justin Yuslih**, an Informatics undergraduate at **Universitas Multimedia 
 ### Other projects
 
 - [**Library Management Frontend Prototype**](https://github.com/SUPERSHOTT/perpustakaan) — HTML, CSS, and JavaScript interface for books, members, borrowing, returns, and overdue fees. Includes category-based recommendations using borrowing history and in-memory data.
-- **NVIDIA Stock Return Forecasting** — Independent academic Python project covering feature engineering, model comparison, time-series validation, Optuna tuning, and SHAP interpretation.
+- [**NVIDIA Stock Return Forecasting**](https://github.com/SUPERSHOTT/NVIDIA-Stock-Return-Forecasting) — Independent academic Python project covering feature engineering, model comparison, time-series validation, Optuna tuning, and SHAP interpretation.
 - **Multimodal Emotion Recognition under ASR Errors** — Team academic project; my contribution focused on data preprocessing and feature engineering, including Whisper transcripts and DistilBERT / Wav2Vec2 features.
 
 ### Tech stack
