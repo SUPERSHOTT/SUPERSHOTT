@@ -2,7 +2,21 @@
   <img src="https://raw.githubusercontent.com/SUPERSHOTT/SUPERSHOTT/main/assets/header.svg" alt="Justin Y — Web development. Interfaces, workflows, and useful software." width="100%" />
 </p>
 
-I build web applications and contribute to collaborative projects, with work spanning donation platforms, library workflows, and responsive interfaces.
+I'm Justin, an Informatics undergraduate at **Universitas Multimedia Nusantara**. I build responsive web interfaces with **React and TypeScript**, and backend applications with **Node.js, Express, and relational databases**.
+
+### Organizational experience
+
+#### [Character Building Mentoring UMN 2026](https://github.com/MATYUS05/MENTORING-UMN-2026)
+**Front End Developer · Website Team** | Mar 2026 – present
+
+- Developed a React and TypeScript module presenting organizational structures, roles, and member directories across **11 divisions**.
+- Built reusable cards, carousels, and responsive detail modals with Tailwind CSS, and optimized image assets through PNG-to-WebP conversion.
+
+#### [ALIVE 11.0 UMN](https://github.com/MATYUS05/Alive)
+**Front End Developer · Website Team** | May – Dec 2025
+
+- Translated Figma designs into a responsive **Divisions page** using React and Tailwind CSS.
+- Added Framer Motion animations and integrated updates with the team through Git feature branches and pull requests.
 
 ### Selected projects
 
@@ -11,16 +25,13 @@ I build web applications and contribute to collaborative projects, with work spa
 | [**SemuaBisa · UTS-AWP**](https://github.com/SUPERSHOTT/UTS-AWP) | Donation and campaign management, with user and admin interfaces. | JavaScript · Node.js · Express · SQL |
 | [**Perpustakaan**](https://github.com/SUPERSHOTT/perpustakaan) | A library management interface for books, members, loans, returns, and collection statistics. | HTML · CSS · JavaScript |
 
-### Collaborative work
-
-- [**Mentoring UMN 2026**](https://github.com/MATYUS05/MENTORING-UMN-2026) — Contributions to responsive interfaces and visual assets in a React and TypeScript project.
-- [**SemuaBisa**](https://github.com/JienFran/SemuaBisa) — Contributions to donation and campaign workflows, including forms, validation, and interface fixes.
+I also contributed to [**SemuaBisa**](https://github.com/JienFran/SemuaBisa), working on donation and campaign workflows, forms, validation, and interface fixes.
 
 ### Toolkit
 
-**Web:** HTML, CSS, JavaScript  
-**Backend & data:** Node.js, Express, SQL  
-**Collaboration:** Git, GitHub
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Framer Motion  
+**Backend & data:** Node.js, Express, PostgreSQL, MySQL, SQL  
+**Tools:** Git, GitHub, Vite, Vercel, Figma
 
 ---
 
