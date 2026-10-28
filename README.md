@@ -1,37 +1,50 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SUPERSHOTT/SUPERSHOTT/main/assets/header.svg" alt="Justin Y — Web development. Interfaces, workflows, and useful software." width="100%" />
+  <img src="https://raw.githubusercontent.com/SUPERSHOTT/SUPERSHOTT/main/assets/header.svg" alt="Justin Yuslih — Web and software development. Responsive interfaces, backend APIs, and collaborative work." width="100%" />
 </p>
 
-I'm Justin, an Informatics undergraduate at **Universitas Multimedia Nusantara**. I build responsive web interfaces with **React and TypeScript**, and backend applications with **Node.js, Express, and relational databases**.
+I'm **Justin Yuslih**, an Informatics undergraduate at **Universitas Multimedia Nusantara**. My experience spans **React and TypeScript interfaces**, **Node.js and Express APIs**, authentication workflows, relational databases, and web deployment.
 
-### Organizational experience
+### Collaborative work
 
 #### [Character Building Mentoring UMN 2026](https://github.com/MATYUS05/MENTORING-UMN-2026)
-**Front End Developer · Website Team** | Mar 2026 – present
+**Frontend Developer · University Website Team** | Mar 2026 – present  
+**Stack:** TypeScript · React · Tailwind CSS · Vite · Git
 
-- Developed a React and TypeScript module presenting organizational structures, roles, and member directories across **11 divisions**.
-- Built reusable cards, carousels, and responsive detail modals with Tailwind CSS, and optimized image assets through PNG-to-WebP conversion.
+- Developed a module presenting organizational structures, roles, and member directories across **11 divisions**.
+- Built reusable cards, carousels, and responsive detail modals; converted PNG assets to WebP to reduce image payload.
 
 #### [ALIVE 11.0 UMN](https://github.com/MATYUS05/Alive)
-**Front End Developer · Website Team** | May – Dec 2025
+**Frontend Developer · University Website Team** | May – Dec 2025  
+**Stack:** JavaScript · React · Tailwind CSS · Framer Motion · Vite · Git
 
-- Translated Figma designs into a responsive **Divisions page** using React and Tailwind CSS.
-- Added Framer Motion animations and integrated updates with the team through Git feature branches and pull requests.
+- Translated Figma designs into a responsive **Divisions page**, with modular components for mobile and desktop.
+- Added animations and transitions with Framer Motion, collaborating with the website team through feature branches and pull requests.
 
-### Selected projects
+#### [SemuaBisa](https://github.com/JienFran/SemuaBisa)
+**Backend Developer · Collaborative Web Project** | 2025 – 2026  
+**Stack:** JavaScript · Node.js · Express · PostgreSQL / Supabase · MySQL · Vercel  
+[Backend repository](https://github.com/SUPERSHOTT/UTS-AWP)
 
-| Project | What it explores | Technologies |
-| :--- | :--- | :--- |
-| [**SemuaBisa · UTS-AWP**](https://github.com/SUPERSHOTT/UTS-AWP) | Donation and campaign management, with user and admin interfaces. | JavaScript · Node.js · Express · SQL |
-| [**Perpustakaan**](https://github.com/SUPERSHOTT/perpustakaan) | A library management interface for books, members, loans, returns, and collection statistics. | HTML · CSS · JavaScript |
+- Developed APIs for campaign management, donation records, and reporting; adapted the MySQL backend to PostgreSQL on Supabase.
+- Implemented hashed-password authentication, database-backed sessions, and transactions; deployed the application on Vercel.
 
-I also contributed to [**SemuaBisa**](https://github.com/JienFran/SemuaBisa), working on donation and campaign workflows, forms, validation, and interface fixes.
+### Other projects
 
-### Toolkit
+- [**Library Management Frontend Prototype**](https://github.com/SUPERSHOTT/perpustakaan) — HTML, CSS, and JavaScript interface for books, members, borrowing, returns, and overdue fees. Includes category-based recommendations using borrowing history and in-memory data.
+- **NVIDIA Stock Return Forecasting** — Independent academic Python project covering feature engineering, model comparison, time-series validation, Optuna tuning, and SHAP interpretation.
+- **Multimodal Emotion Recognition under ASR Errors** — Team academic project; my contribution focused on data preprocessing and feature engineering, including Whisper transcripts and DistilBERT / Wav2Vec2 features.
 
-**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Framer Motion  
-**Backend & data:** Node.js, Express, PostgreSQL, MySQL, SQL  
-**Tools:** Git, GitHub, Vite, Vercel, Figma
+### Tech stack
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript, TypeScript, Python, SQL, C |
+| **Frontend frameworks & libraries** | React, Tailwind CSS, Framer Motion |
+| **Web foundations** | HTML, CSS, responsive layouts |
+| **Backend & APIs** | Node.js, Express, REST APIs |
+| **Databases & services** | PostgreSQL, Supabase, MySQL |
+| **Development & deployment** | Git, GitHub, Vite, Vercel, Figma |
+| **Data & ML · academic projects** | pandas, NumPy, scikit-learn, XGBoost, LightGBM, TensorFlow / Keras, PyTorch, Optuna, SHAP, Hugging Face Transformers |
 
 ---
 
