@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
-  <title id="title">Justin Y — Web development</title>
-  <desc id="desc">Interfaces, workflows, and useful software. A navy banner with a teal accent and abstract interface panels.</desc>
+  <title id="title">Justin Yuslih — Web and software development</title>
+  <desc id="desc">Responsive interfaces, backend APIs, and collaborative work. A navy banner with a teal accent and abstract interface panels.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#101d32"/>
@@ -13,9 +13,9 @@
   </defs>
   <rect width="1200" height="270" rx="16" fill="url(#background)"/>
   <rect x="48" y="47" width="36" height="4" rx="2" fill="url(#accent)"/>
-  <text x="48" y="86" fill="#7cddca" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3">WEB DEVELOPMENT</text>
-  <text x="45" y="155" fill="#f1f5fb" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Justin Y</text>
-  <text x="48" y="198" fill="#acbbce" font-family="Arial, Helvetica, sans-serif" font-size="20">Interfaces, workflows, and useful software.</text>
+  <text x="48" y="86" fill="#7cddca" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3">WEB &amp; SOFTWARE DEVELOPMENT</text>
+  <text x="45" y="155" fill="#f1f5fb" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Justin Yuslih</text>
+  <text x="48" y="198" fill="#acbbce" font-family="Arial, Helvetica, sans-serif" font-size="20">Responsive interfaces, backend APIs, and collaborative work.</text>
   <g fill="none" stroke="#283c55" stroke-width="1.5">
     <rect x="840" y="42" width="265" height="155" rx="12"/>
     <path d="M840 76h265"/>
